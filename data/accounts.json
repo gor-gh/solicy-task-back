@@ -1,0 +1,35 @@
+[
+    {
+        "id": 0,
+        "name": "Gor",
+        "owner": "Gor",
+        "createdOn": "01-02-2000",
+        "updatedOn": "01-02-2000",
+        "actions": [{
+            "title": "View",
+            "url": "/accounts/0"
+        }]
+    },
+    {
+        "id": 1,
+        "name": "John",
+        "owner": "John",
+        "createdOn": "05-02-2004",
+        "updatedOn": "05-02-2004",
+        "actions": [{
+            "title": "View",
+            "url": "/accounts/1"
+        }]
+    },
+    {
+        "id": 2,
+        "name": "Marie",
+        "owner": "Marie",
+        "createdOn": "05-09-2002",
+        "updatedOn": "05-09-2002",
+        "actions": [{
+            "title": "View",
+            "url": "/accounts/2"
+        }]
+    }
+]
